@@ -28,6 +28,7 @@ cargo run flatbuffer_rs
 cd flatbuffer_java
 gradle run
 ```
+* It should show you some of the values of the created monster 
 
 # References
 * https://google.github.io/flatbuffers/
