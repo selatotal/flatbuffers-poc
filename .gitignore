@@ -64,3 +64,6 @@ gradle-app.setting
 
 ### Gradle Patch ###
 **/build/
+
+flatbuffer/monster_generated.rs
+flatbuffer/MyGame
