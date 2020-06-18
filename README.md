@@ -20,10 +20,10 @@ flatc --java monster.fbs  # Generate MyGame package
 * Compile and run Rust project
 ```bash
 cd flatbuffer_rs
-cargo run flatbuffer_rs
+cargo run
 ```
 * It should generate protobufer file in /tmp/flatbuffer.dat
-* Compile and run Java project
+* Compile and run Java project (using JDK 11)
 ```bash
 cd flatbuffer_java
 gradle run
